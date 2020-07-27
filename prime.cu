@@ -1,3 +1,13 @@
+/*
+code example 
+written by Daniel Cazacu
+this code comes with no warranty, use at your own risk
+asd
+looooplooooper@gmail.com
+*/
+
+
+
 #include "device_launch_parameters.h"
 #include "cuda_runtime.h"
 
